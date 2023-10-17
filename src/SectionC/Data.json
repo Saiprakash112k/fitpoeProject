@@ -1,0 +1,21 @@
+{
+
+    "ProductData":[
+        {
+            "ProductImage":"3dAbstract",
+            "ProductName":"Abstract 3d",
+            "ProductContent":"Lorem ipsum dolor sit amet,consectetur adipiscing elit",
+            "Stock":"32",
+            "Price":"45.99",
+            "TotalSales":"20"
+        },
+        {
+            "ProductImage":"Illustration",
+            "ProductName":"Abstract 3d",
+            "ProductContent":"Lorem ipsum dolor sit amet,consectetur adipiscing elit",
+            "Stock":"32",
+            "Price":"45.99",
+            "TotalSales":"20"
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+.secB {
+    margin-top: 35px;
+}
+
+.overview {
+    width: 67%;
+    background-color: white;
+    padding: 25px;
+    border-radius: 20px;
+}
+
+.customer {
+    width: 30%;
+}
+
+/* .overview .css-13aj3tc-MuiChartsSurface-root{
+    width: 95%;
+} */
+.overview .css-14s5rfu-MuiFormLabel-root-MuiInputLabel-root {
+    font-size: 14px !important;
+    top: -6px;
+    font-weight: 600;
+}
+
+.overview .css-11u53oe-MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input {
+    font-size: 14px;
+    font-weight: 500;
+    background: #F2EFFF;
+    border-radius: 10px;
+    padding: 8px;
+    min-height: 0 !important;
+}
+
+.overview .css-kk1bwy-MuiButtonBase-root-MuiMenuItem-root {
+    font-size: 16px !important;
+}
+
+.overview .css-1d3z3hw-MuiOutlinedInput-notchedOutline {
+    border: none;
+    border-radius: 15px;
+    height: 20px;
+}
+
+.overview .MuiChartsXAxis-directionX {
+    width: 100%;
+}
+
+.overview-select {
+    margin: 0 auto;
+    width: 85%;
+}
+
+.months {
+    bottom: 10%;
+    width: 94%;
+    font-size: 15px;
+    box-sizing: border-box;
+    padding: 0 35px;
+}
+
+.customer {
+    width: 30%;
+    background-color: rgb(250,255,255);
+    padding: 25px;
+    border-radius: 20px;
+    box-sizing: border-box;
+    margin-left: 30px;
+    position: relative;
+}
+.customer .css-kso0wp-MuiPieArc-root{
+    stroke: rgb(241,239,252);
+    stroke-width: 0px;
+    stroke-linejoin: round;
+    fill: rgb(241,239,252);
+    opacity: 1;
+}
+.customer .css-ct8a61-MuiPieArc-root{
+    stroke: rgb(114,71,235);
+    stroke-width: 3px;
+    stroke-linejoin: round;
+    fill: rgb(114,71,235);
+    opacity: 1;
+}
+.customer .css-2cirb8-MuiPieArc-root{
+    stroke: rgb(242,62,157);
+    stroke-width: 13px;
+    stroke-linejoin: miter;
+    fill: rgb(242,62,157);
+    opacity: 1;
+}
+.customer .css-1v603wu-MuiResponsiveChart-container{
+    width: 95%;
+    height: 95%;
+}
+.circle-chart{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    background-color: #fff;
+}
+.circle-chart {
+    width: 100%;
+    height: 70%;
+    border-radius: 50%;
+    background-color: #fff;
+}
+.customer .MuiStack-root.css-m69qwo-MuiStack-root{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    width: 100%;
+    transform: translate(-50%, -50%);
+}
+.circle-chart h1{
+    font-size: 30px;
+    font-weight: 600;
+    margin-bottom: -10px;
+}
+.circle-chart p{
+    font-size: 14px;
+    font-weight: 600;
+    width: 30%;
+}
+.OverName{
+    color: rgb(225,225,225);
+    font-size: 14px;
+}
+.h2fontSize{
+    font-size: 18px;
+}
+/* .chart{
+    overflow: scroll;
+} */
+.tinyChart{
+    width: 100%;
+    height: 100%;
+}
+.css-13aj3tc-MuiChartsSurface-root{
+    width: 100% !important;
+    height: 100% !important;
+}
+.circleChart{
+    height: 100%;
+}

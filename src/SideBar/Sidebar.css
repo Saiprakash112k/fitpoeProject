@@ -1,0 +1,91 @@
+.sideBar{
+    background-color: rgb(4,4,64);
+    color: #fff;
+    padding: 20px 10px;
+    width: 15%;
+    /* height: 100% !important; */
+    /* position: fixed; */
+}
+.dashboard h2{
+    font-weight: 600;
+    font-size: 20px;
+    margin-left: 8px;
+    margin-bottom: 5px;
+}
+.dash-img{
+    width: 40px;
+    height: 40px;
+}
+.dash-list li:hover{
+    background-color: rgb(255 255 255 / 19%);
+    border-radius: 10px;
+    color: #fff;
+    opacity: 1;
+}
+.dash-list{
+    margin-top: 20px;
+}
+.sideBar li img{
+    width: 33px;
+    height: 33px;
+    margin-right: 10px
+}
+.sideBar li{
+    font-size: 15px;
+    font-weight: 500;
+    margin-bottom: 20px;
+    padding: 7px;
+    width: 100%;
+opacity: 0.5;
+}
+.sideBar .key{
+    width: 20px;
+    height: 20px;
+    object-fit: cover;
+    margin: 0;
+    top: 42%;
+    left: 21%;
+    transform: translate(-21%, -42%);
+}
+.sideBar .arrow{
+    width: 20px;
+    height: 20px;
+    margin: 0;
+}
+.profile{
+    box-sizing: border-box;
+    padding: 5px;
+    margin-bottom: 35px;
+    background-color: rgb(255 255 255 / 19%);
+    border-radius: 10px;
+}
+.profile-img{
+    width: 50px;
+    height: 50px;
+    margin-right: 5px;
+}
+.profile-img img{
+    border-radius: 50%;
+}
+.evano{
+    font-size:16px ;
+}
+.evo-pm{
+    font-size: 10px;
+}
+.Arrowcircle{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background-color: black;
+    position: fixed;
+    z-index: 100;
+    opacity: 0.5;
+    top: 50%;
+    left: 10px;
+    z-index: 1001;
+}
+.Arrowcircle i{
+    font-size: 16px;
+    color: white;
+}

@@ -1,0 +1,31 @@
+.secA{
+    margin-top: 35px;
+}
+.cardContent{
+    width: 24%;
+}
+.cardContent .MuiBox-root.css-0.cardBox{
+    box-sizing: border-box;
+    padding: 20px 7px;
+    justify-content: space-around;
+}
+.cardContent .cardBox .circle-img{
+    border-radius: 50%;
+    width: 90px;
+    height: 90px;
+}
+.cardContent .css-bhp9pd-MuiPaper-root-MuiCard-root{
+    border-radius: 8px;
+    box-shadow: none
+}
+.cardContent .css-1y7llcd-MuiTypography-root{
+    font-size: 16px;
+}
+
+.cardContent .mData{
+    font-size: 11px;
+    font-weight: 600;
+}
+.cardContent .css-46bh2p-MuiCardContent-root:last-child,.cardContent .css-46bh2p-MuiCardContent-root{
+    padding: 0;
+}

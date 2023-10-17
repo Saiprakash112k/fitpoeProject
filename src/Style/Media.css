@@ -1,0 +1,197 @@
+@media screen and (max-width:1150px){
+    .sideBar .dashboard{
+        padding: 5px;
+    }
+    .sideBar .dash-list{
+        padding: 5px;
+    }
+    .sideBar .dash-img{
+        width: 25px;
+        height: 25px;
+    }
+    .dashboard h2{
+        margin-bottom: 0;
+    }
+    .sideBar .key {
+        width: 12px;
+        height: 12px;
+    }
+    .sideBar li img {
+        width: 20px;
+        height: 20px;
+    }
+    .evo-pm {
+        font-size: 9px;
+    }
+    .profile-img {
+        width: 30px;
+        height: 30px;
+        margin-right: 5px;
+    }
+    .circle-chart h1 {
+        font-size: 20px !important;
+        font-weight: 600;
+        margin-bottom: -10px;
+    }
+    .circle-chart p {
+        display: none;
+    }
+    .customer .css-1v603wu-MuiResponsiveChart-container {
+        width: 95%;
+        height: 95%;
+    }
+    .customer .MuiStack-root.css-m69qwo-MuiStack-root{
+        width: 100%;
+    }
+    .months {
+        font-size: 12px;
+    }
+}
+@media  screen and (max-width:1088px) {
+    .secA .cardContent .MuiBox-root.css-0.cardBox {
+        padding: 20px 0px;
+    }
+    .secA .cardContent .cardBox .circle-img {
+        border-radius: 50%;
+        width: 70px;
+        height: 70px;
+    }
+    .secA .css-180o9pj-MuiCardMedia-root{
+        width: 50px;
+        height: 50px;
+    }
+    .secB .OverName {
+        color: rgb(225,225,225);
+        font-size: 12px;
+    }
+    .secB .months{
+        width: 92%;
+    }
+    .secB .month{
+        font-size: 12px;
+    }
+    .secC .pro-list{
+        font-size: 12px;
+    }
+    .secC .listcontent li {
+        font-size: 12px;
+        font-weight: 500;
+    }
+}
+@media screen and (max-width:990px) {
+    .secA .cardContent {
+        width: 49%;
+        margin-bottom: 20px;
+    }
+    .secC .cardcon{
+        width: 60%;
+    }
+    .secC .listcontent{
+        width: 40%;
+    }
+    .secC .pro-list ul{
+        width: 40%;
+    }
+}
+@media screen and (max-width:860px) {
+    .sideBar{
+        display: none;
+    }
+    .container{
+        width: 100%;
+    }
+}
+@media screen and (max-width:700px) {
+    .secB{
+        flex-direction: column !important;
+    }
+    .secB .overview{
+        width: 85%;
+    }
+    .secB .customer{
+        height: 400px;
+        margin: 35px auto 0 auto;
+        width: 60%;
+    }
+    .circle-chart{
+        background-color: transparent !important;
+    }
+}
+@media screen and (max-width:440px) {
+    .container .search .css-1orzy9s{
+        width: 100%;
+    }
+    .container .secA .cardContent{
+        width: 100%;
+    }
+    .container .secB .months{
+        width: 75%;
+    padding: 0 0px;
+    margin-left: 22px;
+    }
+    .container .month{
+        font-size: 10px;
+    }
+    .container .secB .customer{
+        height: 350px;
+        width: 100%;
+    }
+    .container .cardCon p{
+        display: none;
+    }
+    .productCard div{
+        align-items: center;
+    }
+    .container .cardCon{
+        margin-left: 5px;
+    }
+    .container .Product{
+        padding: 5px;
+    }
+    .container .pro-con{
+        padding: 5px;
+    }
+    .container .cardCon h4{
+        font-size: 14px;
+    }
+    .container .listcontent{
+        width: 52%;
+    }
+    .container .secC .listcontent li{
+        font-size: 10px;
+    }
+}
+@media screen and (max-width:320px) {
+    .App .container .secB .customer {
+        height: 300px;
+        width: 100%;
+    }
+    .App .secB .OverName {
+        color: rgb(149, 145, 145);
+        font-size: 8px;
+    }
+    .css-1470kbw{
+        display: none;
+    }
+    .App .container .secB .months {
+        width: 70%;
+        padding: 0 0px;
+        margin-left: 18px;
+    }
+    .App .container .month {
+        font-size: 8px;
+    }
+    .App .productimg {
+        width: 40px;
+        height: 27px;
+    }
+    .App .secC .pro-list ul {
+        width: 56%;
+    }
+    .App .container .listcontent {
+        width: 52%;
+    }
+    .App .container .cardCon h4 {
+        font-size: 10px;
+    }
+}
